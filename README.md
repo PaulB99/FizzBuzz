@@ -5,3 +5,5 @@ FizzBuzz implementations in various languages
 * Haskell
 * C
 * C++
+* Julia
+* Ruby
