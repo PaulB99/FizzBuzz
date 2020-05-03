@@ -1,2 +1,7 @@
 # FizzBuzz
-FizzBuzz implementations 
+FizzBuzz implementations in various languages
+* Java
+* Python
+* Haskell
+* C
+* C++
