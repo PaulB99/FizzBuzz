@@ -1,4 +1,4 @@
-// fizzBuzz implementation in C
+// C FizzBuzz
 #include <stdio.h>
 typedef enum {false, true} bool;
 
