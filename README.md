@@ -7,3 +7,4 @@ FizzBuzz implementations in various languages that I have a basic proficiency in
 * C++
 * Julia
 * Ruby
+* R
