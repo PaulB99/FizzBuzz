@@ -1,4 +1,3 @@
-
 #Python FizzBuzz
 for x in range (1, 101):
     fizz = (x % 3 == 0)
@@ -11,4 +10,3 @@ for x in range (1, 101):
         print ('Buzz')
     else:
         print (x)
-        
