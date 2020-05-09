@@ -1,5 +1,5 @@
 #include <iostream>
-//A FizzBuzz implementation in C++
+// C++ FizzBuzz
 int main() {
 	for (int i=1; i<101; i++) {
 		if(i % 5 == 0 && i % 3 == 0) {
