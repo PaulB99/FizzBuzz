@@ -1,4 +1,4 @@
-#FizzBuzz implementation in Ruby
+#Ruby FizzBuzz
 1.upto 100 do |number|
   if number % 15 == 0
     puts ('FizzBuzz')
