@@ -1,5 +1,4 @@
 // fizzBuzz implementation in C
-
 #include <stdio.h>
 typedef enum {false, true} bool;
 
@@ -32,4 +31,3 @@ int main(void) {
 	}
 	return 0;
 }
-
